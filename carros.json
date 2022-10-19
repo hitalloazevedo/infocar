@@ -1,0 +1,10 @@
+{
+    "fiat" : ["uno", "toro", "mobi", "doblo", "palio", "linea", "argo"],
+    "ford": ["ranger", "ka", "fiesta", "fusion", "eco-sport", "focus"],
+    "chevrolet" : ["cruze", "camaro", "celta", "spin", "tracker", "s10", "onix", "prisma"],
+    "volkswagen": ["fox", "jetta", "virtus", "voyage", "gol", "nivus", "up"],
+    "toyota": ["corolla", "yaris", "etios", "corolla cross", "hilux", "camry"],
+    "subaru": ["wrx", "forester", "impreza", "legacy", "outback"],
+    "honda": ["fit", "civic", "accord", "hr-v", "city"],
+    "ferrari": ["portofino", "puro sangue", "812", "roma", "f8", "488", "458"]
+}
